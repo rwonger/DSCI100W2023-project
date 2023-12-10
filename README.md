@@ -1,10 +1,6 @@
 # Predicting Diabetes: A Data-Driven Approach Using Medical History and Demographic Data
  Report by: Trevor Harms, Jena Arianto, Jina Kang, Ricky Wong
 
-![](https://storage.googleapis.com/kaggle-datasets-images/3102947/5344155/d4f2d9d63736fff7b6ba10f73774752e/dataset-cover.png?t=2023-04-08-06-42-24)
-*istockphoto.com*
-
-
 ### Introduction
 Diabetes remains a pervasive and important health concern within contemporary healthcare and medical research. Individuals with diabetes encounter challenges either in insulin production or the efficient utilization of insulin for glucose processing, resulting in potential complications such as cardiovascular issues and nerve damage. The multifaceted nature of this condition emphasizes the significance of research efforts aimed at explaining predictive factors for diabetes onset. Notably, existing medical literature has established correlations between diabetes and various risk factors, including obesity, age, and other demographic variables.
 
